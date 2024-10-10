@@ -1,0 +1,18 @@
+.paper {
+    padding: 16px;
+  }
+  .form {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .fileInput {
+    margin: 10px;
+    margin-top: 0px;
+  }
+  .buttonSubmit {
+    margin-bottom: 10px;
+  }
+  .textfield {
+    margin: 10px;
+  }
+  
